@@ -40,3 +40,11 @@ uma tabela para persistir os Logins cadastrados.
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Fotos do Login 
+
+![preview img](/foto1.png)
+<br><br>
+![preview img](/foto2.png)
+<br><br>
+![preview img](/foto13.png)
