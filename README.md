@@ -18,7 +18,7 @@
 
 # Instalação do Sistema
 
-#### Professor Araya no terminal siga a lista de comandos abaixo:
+#### Professor Araya siga a lista de comandos abaixo:
 
 - Entre no PhpMyAdmin e crie um DB com o nome **loginlaravel**
 - dentro do xampp htdocs crie uma pasta para fazer o git clone
