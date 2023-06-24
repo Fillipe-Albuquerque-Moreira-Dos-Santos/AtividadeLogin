@@ -7,26 +7,35 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+## Nomes
+
+### Fillipe Albuquerque
+### Guilherme Oliveira
+### Erika
+### Deibson
+### Gabriel Cardoso
+### Davi Emanuel
+
 # Instalação do Sistema
 
-#### No terminal siga a lista de comandos abaixo:
+#### Professor Araya no terminal siga a lista de comandos abaixo:
 
-- git clone https://github.com/Fillipe-Albuquerque-Moreira-Dos-Santos/LaravelEventos
-- cd sistema-eventos-laravel
-- composer install
-- cp .env.example .env
-- Configurar o arquivo .env com as informações de conexão da base de dados.
+- Entre no PhpMyAdmin e crie um DB com o nome **loginlaravel**
+- dentro do xampp htdocs crie uma pasta para fazer o git clone
+- git clone https://github.com/Fillipe-Albuquerque-Moreira-Dos-Santos/AtividadeLogin
+- Após o git clone não se esqueça de dar um cd dentro da AtividadeLogin
+- Instalar o composer install caso não tenha entre nesse site **https://getcomposer.org/**
+- Dentro do terminal do visual StudioCode use o comando **composer install**
+- Depois esse comando cp .env.example .env
+- Caso necessário php artisan key:generate
+- php artisan jetstream:install livewire (Instalação do login no seu sistema)
+- Depois dê um **php artisan migrate** (Comando para subir os dados pro banco loginlaravel)
 - php artisan migrate
 
 Agora tudo pronto, basta usar o "php artisan serve" e acessar o endereço http://localhost:8000
 
-Estarei disponibilizando o .sql para facilitar a instalação
-
 Foi utilizado uma estrutura de base de dados simples com a tabela de usuarios do proprio laravel, 
-uma tabela para persistir os eventos e uma ultima tabela para a compra do ingresso onde ficam salvos o evento, 
-quantidade e o usuário.
-
-Qualquer duvida fico a disposição no email "fillipefff@gmail.com"
+uma tabela para persistir os Logins cadastrados.
 
 ## License
 
