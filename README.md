@@ -16,6 +16,7 @@
 ### Gabriel Cardoso
 ### Davi Emanuel
 ### Jadielle Cordeiro Neves dos Santos
+### Jeniffer Bento da Cunha
 
 ## -------------------------------------------------------------------------------------------------------
 
