@@ -15,6 +15,7 @@
 ### Deibson
 ### Gabriel Cardoso
 ### Davi Emanuel
+### Jadielle Cordeiro Neves dos Santos
 
 ## -------------------------------------------------------------------------------------------------------
 
